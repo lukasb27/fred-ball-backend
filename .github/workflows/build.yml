@@ -32,7 +32,7 @@ jobs:
         run: poetry self add poetry-plugin-lambda-build
 
       - name: Package application into ZIP
-        run: poetry lambda-build
+        run: poetry build-lambda
 
       - name: Upload ZIP to S3
         run: aws s3 cp package.zip s3://${{ vars.S3_BUCKET }}/package.zip
