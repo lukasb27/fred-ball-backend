@@ -14,12 +14,21 @@ dependencies = [
     "pymupdf (>=1.26.6,<2.0.0)",
     "ftfy (>=6.3.1,<7.0.0)",
     "fastapi[standard] (>=0.121.3,<0.122.0)",
-    "uvicorn (>=0.38.0,<0.39.0)"
+    "uvicorn (>=0.38.0,<0.39.0)",
+    "mangum (>=0.19.0,<0.20.0)"
 ]
 
 [tool.poetry]
 packages = [{include = "app"}]
 
+[tool.poetry.requires-plugins]
+poetry-plugin-export = ">=1.8"
+poetry-plugin-lambda-build = ">=2.1.2"
+
+[tool.poetry-plugin-lambda-build]
+docker-image = "public.ecr.aws/sam/build-python3.13:latest-x86_64"
+docker-network = "host"
+package-artifact-path = "package.zip"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
