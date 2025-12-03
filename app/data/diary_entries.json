@@ -130,7 +130,7 @@
             {
                 "date": "April 1942",
                 "text": "After spending fourteen days survivors leave with some very nice people in Durban I joined the battleship H.M.S. Valiant which was in dry dock at Durban being repaired after being blown up a two man submarine in Alexander harbour, Egypt. On completion of the repairs left Durban for operations in the Indian Ocean occasionally returning to Mobassa to refuel and take on stores, during my time on Valiant I passed the examination for Leading seaman on the 27th September I was promoted to Leading Seaman."
-            }, 
+            },
             {
                 "date": "April 5th 1942 Easter Sunday",
                 "text": "Dorsetshire and Cornwall attacked by 40 Japanese bomber aircraft at about 2.00pm both ships were so badly damaged we were told to abandon ship, shortly afterwards both ships sank with heavy loss of life, after being in the sea for 33 hours some of us were rescued by a Royal Navy destroyer H.M.S. Paladin, eventually I was transferred to the battleship H.M.S. Ramalies and taken to Mombassa in East Africa where I was sent to a troopship called the Mendosa for passage to Durban, South Africa where I had two weeks survivors leave before joining H.M.S. Valiant, it was quite a coincidence that I should take passage on the Mendosa as she had been captured by us after the fall of France in 1940, the ship being of French registration it was uncertain whether she would return to occupied France and by used by the Germans."
@@ -221,7 +221,6 @@
                 "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image12.jpg",
                 "text": "Dad top row sixth from the left"
             },
-            
             {
                 "date": "February 19th 1948",
                 "text": "Petty Officers leadership course commenced"
@@ -257,6 +256,33 @@
                 "text": "Arrived at Hong Kong and joined the Jamaica, on arrival onboard was informed I would be carrying out the duty of boys instructor this is where I first met Petty Officer W.C.W. Davis he was also a boys instructor, it was during my time on Jamaica that the Korean war started, we were the first warship to enter the war zone, several months were spent in the area during which time we had a number of casualties due to North Korean aircraft attacks during the landing at \"INCHON\", also being hit by a shore battery shell whilst bombarding the East coast of Korea which killed nine personal, on another occasion when in company with the United States cruiser we were attacked by six North Korean torpedo boats, we suffered no damage or casualties but managed to sink all six boats one way or another, five were sunk by gun fire and the other one ended up on the beach damaged to such an extent that it was the safest thing to do for the crew."
             }
         ],
+        "1950": [
+            {
+                "date": "November 1950",
+                "text": "Dad small arms training",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image15.jpg"
+            },
+            {
+                "date": "October 1950",
+                "text": "Picture on the left Dad is the second from the left. Picture on the right he is the third from the right.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image17.jpg"
+            },
+            {
+                "date": "1950",
+                "text": "Location/Ship unknown",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image18.jpg"
+            },
+            {
+                "date": "1950",
+                "text": "Crew of the H.M.S Jamaica",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image19.jpg"
+            },
+            {
+                "date": "December 1950",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image16.jpg"
+            }
+        ],
         "1951": [
             {
                 "date": "June 15th 1951",
@@ -277,6 +303,21 @@
             {
                 "date": "July 16th 1953",
                 "text": "Joined H.M.S. Warrior an aircraft carrier at Devonport, remaining there for several months preparing the ship for sea"
+            },
+            {
+                "date": "1953",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image20.jpg"
+            },
+            {
+                "date": "1953",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image21.jpg"
+            },
+            {
+                "date": "1953",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image22.jpg"
             }
         ],
         "1954": [
@@ -374,10 +415,26 @@
             },
             {
                 "date": "September 4th 1954",
-                "text": "Arrived at Pucheron Island of Hiaphong, as we lay anchor the refugees were brought to us in French naval landing craft and it was a sorry sight to see, about 1,500 most of them women and children, as they came aboard they were fumigated and then accommodated in the aircraft hanger which had been completely cleared for this purpose, in all we did two trips and during this time had three babies born onboard, the refugees were taken to Cap St Jacques which is sixty miles from Saigon and transferred to American landing craft for the remainder of the journey to Saigon.The evacuation of refugees from Hiaphong to Saigon, Vietnam."
+                "text": "Arrived at Pucheron Island of Hiaphong, as we lay anchor the refugees were brought to us in French naval landing craft and it was a sorry sight to see, about 1,500 most of them women and children, as they came aboard they were fumigated and then accommodated in the aircraft hanger which had been completely cleared for this purpose, in all we did two trips and during this time had three babies born onboard, the refugees were taken to Cap St Jacques which is sixty miles from Saigon and transferred to American landing craft for the remainder of the journey to Saigon."
             },
             {
-                "date": "One of three babies born onboard  September 1954",
+                "date": "September 1954",
+                "text": "The evacuation of refugees from Hiaphong to Saigon, Vietnam.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image23.jpg"
+            },
+            {
+                "date": "September 1954",
+                "text": "Fumigating the new arrivals.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image24.jpg"
+            },
+            {
+                "date": "September 1954",
+                "text": "One of the three babies born onboard.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image25.jpg"
+            },
+            {
+                "date": "September 1954",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image26.jpg",
                 "text": "The three Storks one for each baby born onboard"
             },
             {
@@ -395,12 +452,27 @@
             {
                 "date": "November 1st 1954",
                 "text": "Arrived at Durban South Africa, a place I have many happy memories of although my previous visits had been during World War 2. On leaving Durban we visited Port Elizabeth for a few days, after which we sailed for Dakar, Senegal on the west coast of Africa, it was into this port during World War 2 when I was serving on H.M.S. Dorsetshire that we escorted the French battleship \"Richelieu\" and eventually took part in the operation to immobilize her to prevent her from retuning to France and being used by the German, this operation obviously wasn't appreciated by the French as during our stay in the area we were bombed by the French Air Force, fortunately all the bombs missed us. Our next port of call was Gibraltar to do our duty free shopping before arriving home at Plymouth."
+            },
+            {
+                "date": "November 1954",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image27.jpg",
+                "text": ""
             }
         ],
         "1955": [
             {
                 "date": "February 19th 1955",
                 "text": "After having leave arrived at H.M.S. Dryad to do a RADAR course for instructional duties, on completing the course remained in Dryad for a few months on instructional duties."
+            },
+            {
+                "date": "November 1955",
+                "text": "Dad marked by white arrow",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image13.jpg"
+            },
+            {
+                "date": "November 1955",
+                "text": "Dad marked by black arrow",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image28.jpg"
             }
         ],
         "1956": [
@@ -431,7 +503,22 @@
                 "text": "Sailed to take part in the Jamestown, U.S.A. Centenary celebrations the U.S. Navy held a review at Norfolk, Virginia U.S.A. the British squadron being led by Ark Royal, on the way to Norfolk we found the replica of the \"Mayflower\" which had sailed from Plymouth several weeks before and was making her way to the U.S. Before leaving Norfolk a contingent of the ships company marched through the town to a great reception, I had the honour of being the Ensign bearer for the occasion. On leaving Norfolk we did flying training in the company with the U.S.S. Saratoga after which we had a four-day visit to the city of New YorkDAD"
             },
             {
-                "date": "JulyAugust 1957",
+                "date": "June 1957",
+                "text": "Dad marked by black arrow",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image29.jpg"
+            },
+            {
+                "date": "June 1957",
+                "text": "Dad marked by black arrow",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image30.jpg"
+            },
+            {
+                "date": "September 1957",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image31.jpg"
+            },
+            {
+                "date": "July August 1957",
                 "text": "Most of this period was spent doing flying training."
             },
             {
@@ -453,8 +540,18 @@
                 "text": "This was the start of our Mediterranean visit which lasted until June, during this period numerous foreign ports were visited namely Gibraltar, Genoa, Naples, Malta, Augusta and Palermo to name a few."
             },
             {
+                "date": "September 1958",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image32.jpg"
+            },
+            {
                 "date": "July 1958",
                 "text": "Returned to Plymouth."
+            },
+            {
+                "date": "1958",
+                "text": "Dad marked by white arrow",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image33.jpg"
             },
             {
                 "date": "July 31st 1958",
@@ -497,6 +594,11 @@
             {
                 "date": "September 25th 1960",
                 "text": "Crossed the Artic Circle so the ships company qualified for \"Blue Nose Certificates."
+            },
+            {
+                "date": "1960",
+                "text": "Dad marked by white arrow",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image34.jpg"
             },
             {
                 "date": "October 2nd 1960",
@@ -567,12 +669,101 @@
             {
                 "date": "October 26th 1964",
                 "text": "Left H.M.S. Dryad to go to the NATO Headquarters H.M.S. Northwood, London to train Royal Naval Reserves in the underground war room, this was a very enjoyable and interesting job which lasted twelve months and on the 29th of November 1965 left to join H.M.S. Hermes."
+            },
+            {
+                "date": "1964",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image35.jpg"
+            },
+            {
+                "date": "1964",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image36.jpg"
+            },
+            {
+                "date": "1964",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/image37.jpg"
             }
         ],
         "1965": [
             {
                 "date": "November 30th 1965",
                 "text": "Joined H.M.S. Hermes at Plymouth, this was to be my last ship of a thirty-year career in the Royal Navy, which ended on the 27th May 1968. During my two years on Hermes we visited many places abroad from the Mediterranean to the South Pacific, one of the most tedious periods was patrolling off Aden during the withdrawal of the British Forces from the area which entailed being at sea for 73 days, after this we visited Singapore for a rest which was very welcome, during my career in the R.N. I had never visited Australia but fortunately before leaving Hermes in January 1968 we went to Freemantle, west Australia.On returning to the Aden area I was transferred to a R.A.F. base from where I was brought home by plane. After having leave March April and May were spent in H.M.S. Dryad and the Royal Naval Barracks at Portsmouth from where I was discharged to civilian life. It was towards the end of my time in Hermes that I was informed I had been awarded the British Empire Medal"
+            },
+            {
+                "date": "1965",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/55-0.png"
+            },
+            {
+                "date": "1965",
+                "text": "Dad third from the left middle row",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/56-0.png"
+            }
+        ],
+        "1967": [
+            {
+                "date": "April 1967",
+                "text": "Athens, Dad on the right",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/59-0.png"
+            },
+            {
+                "date": "April 1967",
+                "text": "Athens, Dad on the left",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/59-1.png"
+            },
+            {
+                "date": "May 1967",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/57-0.png"
+            },
+            {
+                "date": "June 1967",
+                "text": "Letters from Officers congratulating Dad on his British Empire Medal award.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/63-0.png"
+            },
+            {
+                "date": "July 1967",
+                "text": "",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/56-1.png"
+            },
+            {
+                "date": "October 1967",
+                "text": "Letter from Queen Elizabth II informing Dad of his British Empire Medal award.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/61-1.png"
+            },
+            {
+                "date": "October 1967",
+                "text": "Newspaper cutting announcing Dad's British Empire Medal award. Details on the British Empire Medal presentation.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/64-0.png"
+            },
+            {
+                "date": "October 1967",
+                "text": "Dad receiving his British Empire Medal",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/61-1.png"
+            },
+            {
+                "date": "October 1967",
+                "text": "Dad first on the left",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/62-0.png"
+            }
+        ],
+        "1968": [
+            {
+                "date": "May 1968",
+                "text": "Dads letter upon leaving the Royal Navy after 30 years service.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/65-0.png"
+            },
+            {
+                "date": "-",
+                "text": "Dads cap badges from his Royal Navy career.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/66-0.png"
+            },
+            {
+                "date": "-",
+                "text": "Dads medals from his Royal Navy career.",
+                "image_url": "https://fred-ball-website.s3.eu-west-2.amazonaws.com/images/67-0.png"
             }
         ]
     }
