@@ -10,7 +10,7 @@ app.include_router(year.router)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://fredball.co.uk", "http://localhost:8080", "http://localhost"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
