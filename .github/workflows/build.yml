@@ -21,7 +21,7 @@ jobs:
           python-version: '3.13'
 
       - name: Setup AWS CLI
-        uses: aws-actions/configure-aws-credentials@v1.7.0
+        uses: aws-actions/configure-aws-credentials@v5.1.0
         with:
           role-to-assume: arn:aws:iam::792171318913:role/FredBallApiGitHubActionsRole
           role-session-name: GitHub_to_AWS_via_FederatedOIDC
