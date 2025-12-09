@@ -1,5 +1,5 @@
 [project]
-name = "pdf-to-text"
+name = "fred-ball-api"
 version = "0.1.0"
 description = ""
 authors = [
@@ -33,3 +33,13 @@ package-artifact-path = "package.zip"
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+test = [
+    "pytest (>=9.0.2,<10.0.0)",
+    "httpx (>=0.28.1,<0.29.0)"
+]
+lint = [
+    "black (>=25.12.0,<26.0.0)",
+    "flake8 (>=7.3.0,<8.0.0)"
+]

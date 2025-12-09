@@ -1,0 +1,41 @@
+name: Test and Lint FastAPI Application
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+        pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+
+      - name: Run unit tests 
+        run: |
+          poetry install --only test
+          poetry run pytest tests/ --junitxml=report.xml
+      
+      - name: Run linting
+        run: |
+          poetry install --only lint
+          poetry run flake8 app/
+        
+      - name: Publish Test Report
+        uses: mikepenz/action-junit-report@v4
+        if: always()   # ensures it runs even if pytest fails
+        with:
+            report_paths: 'report.xml'
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+
