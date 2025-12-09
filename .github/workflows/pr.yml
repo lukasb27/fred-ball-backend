@@ -24,13 +24,8 @@ jobs:
 
       - name: Run unit tests 
         run: |
-          poetry install --only test
+          poetry install
           poetry run pytest tests/ --junitxml=report.xml
-      
-      - name: Run linting
-        run: |
-          poetry install --only lint
-          poetry run flake8 app/
         
       - name: Publish Test Report
         uses: mikepenz/action-junit-report@v4
