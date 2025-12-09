@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'app/**'
+      - '.github/workflows/build.yml'
 
 jobs:
   build:
@@ -35,7 +38,18 @@ jobs:
 
       - name: Package application into ZIP
         run: poetry build-lambda
+      
 
+      - name: Run unit tests 
+        run: |
+          poetry install --only test
+          poetry run pytest tests/
+      
+      - name: Run linting
+        run: |
+          poetry install --only lint
+          poetry run flake8 app/
+      
       - name: Upload ZIP to S3
         run: aws s3 cp package.zip s3://${{ vars.S3_BUCKET }}/package.zip
 
