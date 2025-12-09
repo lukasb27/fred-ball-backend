@@ -1,5 +1,7 @@
 import json
-import os 
+import os
+
+
 def get_entries():
     # Get the directory where the current file lives
     current_dir = os.path.dirname(__file__)

@@ -36,4 +36,7 @@ jobs:
         with:
             report_paths: 'report.xml'
             github_token: ${{ secrets.GITHUB_TOKEN }}
-
+      
+      - name: Run linting
+        run: |
+          poetry run flake8 app
